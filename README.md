@@ -5,7 +5,12 @@ To analyze IPL match data and find key insights about
 team performance, player stats and match outcomes.
 
 ## Tools Used
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, Matplotlib, Seaborn, Googlr Colab
+
+## Dataset
+- matches.csv — 1095 matches (included in repository)
+- deliveries.csv — 260,920 deliveries
+- Download from: https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset
 
 ## Dataset
 IPL Complete Dataset from Kaggle
@@ -30,6 +35,8 @@ IPL Complete Dataset from Kaggle
 8. Top 10 six hitters
 
 ## How to Run
-1. Download both CSV files and the notebook
-2. Open in Jupyter Notebook or Google Colab
-3. Run all cells in order
+1. Download matches.csv from this repository
+2. Download deliveries.csv from Kaggle link above
+3. Open IPL_EDA_Analysis.ipynb in Google Colab
+4. Upload both CSV files to Colab
+5. Run all cells in order
